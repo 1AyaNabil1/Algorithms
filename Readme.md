@@ -48,10 +48,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 Feel free to reach out if you have any questions or suggestions!
 
-- **Email**: [ayanabil297@gmail.com](mailto:your.ayanabil@gmail.com)
-- **LinkedIn**: [Aya Nabil](https://www.linkedin.com/in/aya-nabil-202781247)
-- **Twitter**: [Data is a Butterfly🦋✨](https://twitter.com/@butterfly_295)
-
+- **Portfolio**: [Aya_Nexus](https://ayanabil.vercel.app/)
 ---
 
 Thank you for visiting my repository! Happy coding! 🚀
